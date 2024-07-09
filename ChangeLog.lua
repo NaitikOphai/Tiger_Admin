@@ -1,1 +1,1 @@
-return "Fixed !virus",
+"Fixed !virus"
