@@ -1,1 +1,1 @@
-"Fixed !virus"
+"Added !goto <PLAYER>, !trap <PLAYER>, !untrap <PLAYER> !nuke <PLAYER>,!virus <PLAYER>, !unvirus <PLAYER>, !arrest <PLAYER,ALL> !prison, !tower, !gate, !armory, !yard, !roof, !kitchen to Rank players commands. (!admin)"
