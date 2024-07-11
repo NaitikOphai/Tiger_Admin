@@ -1,1 +1,1 @@
-"Major fixes\n added !admin all & !unadmin all"
+"Major fixes added !admin all & !unadmin all"
