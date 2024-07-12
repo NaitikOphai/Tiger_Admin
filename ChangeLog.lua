@@ -1,1 +1,1 @@
-"Major fixes added !admin all & !unadmin all"
+Added !serverhop\nAdded !removecars\nMade !car faster\nAdded !esp ON/OFF\nAdded !earrape\nAdded !joinlogs\nAdded !superknife
