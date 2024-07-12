@@ -1,1 +1,1 @@
-Added !serverhop\nAdded !removecars\nMade !car faster\nAdded !esp ON/OFF\nAdded !earrape\nAdded !joinlogs\nAdded !superknife
+Added !serverhop, Added !removecars, Made !car faster, Added !esp ON/OFF, Added !earrape, Added !joinlogs, Added !superknife, 
