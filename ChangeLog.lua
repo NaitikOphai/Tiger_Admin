@@ -1,1 +1,1 @@
-Added !voidkill <PLAYER> Added !antifling to !supergod fixed some minor bugs. 7/26/2024
+Added !silentaim <ON/OFF> fixed some minor bugs with respawn, Added !gas <ME,PLAYER>, Added !bridge <ME,PLAYER> , Added !roof <ME,PLAYER>  7/28/2024
